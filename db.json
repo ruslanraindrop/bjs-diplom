@@ -6,7 +6,7 @@
       "password": "demo",
       "id": 1,
       "balance": {
-        "RUB": 1000,
+        "RUB": 243151,
         "USD": 20,
         "EUR": 20,
         "NTC": 3000
@@ -22,7 +22,7 @@
         "RUB": 20,
         "USD": 0,
         "EUR": 0,
-        "NTC": 100
+        "NTC": 800
       }
     },
     {
@@ -31,7 +31,7 @@
       "password": "demo",
       "id": 3,
       "balance": {
-        "RUB": 20000,
+        "RUB": 21000,
         "USD": 300,
         "EUR": 500,
         "NTC": 50000
@@ -58,7 +58,57 @@
         "RUB": 60000,
         "USD": 500,
         "EUR": 600,
-        "NTC": 90000
+        "NTC": 90000,
+        "": 100
+      }
+    },
+    {
+      "created_at": "2020-07-04T09:18:46.546Z",
+      "login": "andrey",
+      "password": "andrey",
+      "id": 6,
+      "balance": {
+        "RUB": 0.19399493127139067,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0,
+        "": -100
+      }
+    },
+    {
+      "created_at": "2020-07-04T09:39:23.440Z",
+      "login": "ruslan",
+      "password": "ruslan",
+      "id": 7,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-07-04T09:42:19.030Z",
+      "login": "whouser",
+      "password": "12345",
+      "id": 8,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-07-05T19:00:30.436Z",
+      "login": "ruslan27",
+      "password": "27107214pass",
+      "id": 9,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
       }
     }
   ],
@@ -78,6 +128,9 @@
       "1": "Важный пацан",
       "3": "Дедуля",
       "4": "Галя"
+    },
+    "6": {
+      "1": "Руслан"
     }
   }
 }
